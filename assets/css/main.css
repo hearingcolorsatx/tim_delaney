@@ -1362,13 +1362,34 @@ input, select, textarea {
 			}
 
 			.poptrox-popup .caption {
-				display: none !important;
+				display: block !important;
+				padding: 1em 1em 0.75em 1em;
+				background: linear-gradient(to top, rgba(0,0,0,0.75), rgba(0,0,0,0));
+			}
+
+			.poptrox-popup .caption h2,
+			.poptrox-popup .caption p,
+			.poptrox-popup .caption ul.icons {
+				margin-left: 0;
+				font-size: 0.8em;
+			}
+
+			.poptrox-popup .caption ul.icons {
+				display: flex;
+				gap: 0.5em;
+				margin-top: 0.75em;
+			}
+
+			.poptrox-popup .caption ul.icons a,
+			.poptrox-popup .caption ul.icons a i {
+				width: 2em;
+				height: 2em;
 			}
 
 			.poptrox-popup .closer,
 			.poptrox-popup .nav-previous,
 			.poptrox-popup .nav-next {
-				display: none !important;
+				display: block !important;
 			}
 
 		}
