@@ -1345,12 +1345,16 @@ input, select, textarea {
 		@media screen and (max-width: 980px) {
 
 			.poptrox-popup .closer {
-				background-size: 3em;
+				background-size: 2em;
 			}
 
 			.poptrox-popup .nav-previous,
 			.poptrox-popup .nav-next {
-				background-size: 4em;
+				width: 4em;
+				height: 4em;
+				margin-top: -2em;
+				background-size: 1.25em;
+				background-position: right;
 			}
 
 		}
