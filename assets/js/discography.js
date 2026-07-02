@@ -18,7 +18,7 @@ const galleryItems = [
 	},
 	{
 		artist: "Tim Delaney",
-		title: "Rocío",
+		title: "Rocío (single)",
 		type: "Single",
 		year: 2021,
 		description: "Singles of Imaginary Friends and Rocío from the EP Where to Begin. <br><a href='https://opensea.io/collection/rocio/'>Available as NFTs on OpenSea.</a>",
@@ -36,7 +36,7 @@ const galleryItems = [
 	},
 	{
 		artist: "Tim Delaney",
-		title: "Where to Begin - Instrumentals",
+		title: "Where to Begin Instrumentals",
 		type: "Instrumental",
 		year: 2021,
 		description: "The acoustic instrumentals from the EP Where to Begin.",
@@ -50,6 +50,23 @@ const galleryItems = [
 			youtube: "",
 		},
 		artwork: "tim_delaney/artwork/wtb_instrumentals"
+	},
+	{
+		artist: "Tim Delaney",
+		title: "When the Day Is Through",
+		type: "Album",
+		year: 2027,
+		description: "Acoustic album coming soon",
+        version: "v1782877135",
+		id: "tim_delaney/artwork/when_the_day_is_through",
+		alt: "When the Day Is Through artwork by Tim Delaney",
+		links: {
+			spotify: "",
+			apple: "",
+			soundcloud: "",
+			youtube: "",
+		},
+		artwork: "tim_delaney/artwork/when_the_day_is_through"
 	},
 	{
 		artist: "Tim Delaney",
@@ -84,23 +101,6 @@ const galleryItems = [
 			youtube: "https://music.youtube.com/playlist?list=OLAK5uy_lyKtMudFpTim1KD8Ep72wsRxwtkh46CJY&si=pCRS5iALjaz5LuPh",
 		},
 		artwork: "tim_delaney/artwork/lsd_instrumentals"
-	},
-	{
-		artist: "Tim Delaney",
-		title: "When the Day Is Through",
-		type: "Album",
-		year: 2027,
-		description: "Acoustic album coming soon",
-        version: "v1782877135",
-		id: "tim_delaney/artwork/when_the_day_is_through",
-		alt: "When the Day Is Through artwork by Tim Delaney",
-		links: {
-			spotify: "",
-			apple: "",
-			soundcloud: "",
-			youtube: "",
-		},
-		artwork: "tim_delaney/artwork/when_the_day_is_through"
 	},
 	{
 		artist: "Tim Delaney",
