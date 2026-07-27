@@ -4,9 +4,9 @@ const galleryItems = [
 		title: "Where to Begin",
 		type: "EP",
 		year: 2021,
-		description: "The acoustic debut EP by Tim Delaney released in 2021.<br>More information about this release coming soon.",
+		description: "The acoustic debut EP by Tim Delaney released in 2021.<br><a href='https://wheretobegin.timdelaneymusic.com'>Learn more about this release.</a>",
         version: "v1782877135",
-		id: "tim_delaney/artwork/where_to_begin_pano",
+		id: "tim_delaney/artwork/Sand-Dunes-Cover",
 		alt: "Where to Begin artwork by Tim Delaney",
 		links: {
 			spotify: "https://open.spotify.com/album/1KWJddfpSqdmrAisExewHK",
@@ -14,7 +14,7 @@ const galleryItems = [
 			soundcloud: "https://on.soundcloud.com/xhxo7LIYWpXIholVGu",
 			youtube: "https://music.youtube.com/playlist?list=OLAK5uy_kyvXYSCR4pQ8ii3PKddz0YOMd0O31iZx0&si=uia_KW4xFIeMB1PN",
 		},
-		artwork: "tim_delaney/artwork/where_to_begin_pano"
+		artwork: "tim_delaney/artwork/Sand-Dunes-Cover"
 	},
 	{
 		artist: "Tim Delaney",
@@ -56,7 +56,7 @@ const galleryItems = [
 		title: "When the Day Is Through",
 		type: "Album",
 		year: 2027,
-		description: "Acoustic album coming soon",
+		description: "Acoustic album coming in 2027.",
         version: "v1782877135",
 		id: "tim_delaney/artwork/when_the_day_is_through",
 		alt: "When the Day Is Through artwork by Tim Delaney",
@@ -87,7 +87,7 @@ const galleryItems = [
 	},
 	{
 		artist: "Tim Delaney",
-		title: "Looking to the <br>Stars for <br>Direction <br>(Hearing Colors) <br> [radio edit] ",
+		title: "Looking to the <br>Stars for <br>Direction <br>(Hearing Colors) <br> [radio edit]",
 		type: "Instrumental",
 		year: 2021,
 		description: "Radio edit of the single by neutron squared. <br>Includes instrumentals.",
